@@ -5,7 +5,7 @@ Project completed as part of MITACS GRI program.
 
 Notation-
 
-A is and N by m measurement matrix. 
+A is an Nxm random gausian measurement matrix. [A=A/||A||] 
 
 x is a Nx1 vector with a sparsity s.
 
